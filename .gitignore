@@ -1,1 +1,3 @@
-blastdb/
+*
+!.gitignore
+!bioinfo_analysis.ipynb
